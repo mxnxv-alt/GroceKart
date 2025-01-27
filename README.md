@@ -4,6 +4,8 @@
 This project is a PHP-based web application designed to manage an online grocery store. It includes sections for various categories such as fruits, vegetables, dairy, snacks, and beverages. Users can browse products, add them to their cart, and proceed with the checkout process. 
 GroceKart is an online grocery shopping website designed to make your grocery shopping experience smooth, efficient, and convenient. With GroceKart, you can browse through a wide range of products, add them to your cart, and place your orders—all from the comfort of your home.
 
+![Uploading Screenshot (38).png…]()
+
 ## Features
 
 - **Product Categories:** Users can explore different categories like beverages, dairy, fruits, snacks, and vegetables.
